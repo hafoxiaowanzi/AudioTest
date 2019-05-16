@@ -48,4 +48,4 @@ def getSubInteger(n):
     #     max+=1
     #
 
-getSubInteger(6)
+getSubInteger(7)
